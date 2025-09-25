@@ -2,7 +2,7 @@ package Java_basics;
 
 import java.util.Scanner;
 
-public class exercise_1 {
+public class making_objects {
     public static void main(String[] args) {
         //System.in as a parameter allows one to give input via console
         //Creating an object of type Scanner, which will read the input from the console.
